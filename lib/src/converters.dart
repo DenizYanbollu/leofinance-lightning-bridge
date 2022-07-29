@@ -119,7 +119,6 @@ double _removeAndConvert(String s, String p) =>
 
 Comments buildComments(
   hive_api.Discussion discussion,
-  scot_api.PostInfo tribePost,
   Map<String, scot_api.PostInfo?> tribeComments, {
   required scot_api.TokenInfo tokenInfo,
 }) {
