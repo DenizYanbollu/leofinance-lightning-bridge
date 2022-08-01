@@ -9,3 +9,11 @@
 ## 0.2.1
 
 - Bump dependencies
+
+## 0.2.2
+
+- Bump dependencies
+
+## 0.2.3
+
+- Bump dependencies
