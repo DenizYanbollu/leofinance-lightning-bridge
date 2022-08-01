@@ -1,6 +1,6 @@
 name: lightning_bridge
 description: Converts Hive / Scot return values to lightning-api objects
-version: 0.2.0
+version: 0.2.1
 repository: https://github.com/LeoFinance/lightning-bridge
 
 environment:
@@ -8,8 +8,8 @@ environment:
 
 dependencies:
   hive_api: ^0.4.4
-  lightning_api: ^0.6.0
-  scot_api: ^0.4.2
+  lightning_api: ^0.7.0
+  scot_api: ^0.4.3
 
 dev_dependencies:
   lints: ^2.0.0
