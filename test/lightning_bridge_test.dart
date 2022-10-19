@@ -1,5 +1,5 @@
 // ignore_for_file: prefer_const_constructors
-import 'package:lightning_bridge/lightning_bridge.dart';
+import 'package:leofinance_lightning_bridge/lightning_bridge.dart';
 import 'package:scot_api/scot_api.dart';
 import 'package:test/test.dart';
 

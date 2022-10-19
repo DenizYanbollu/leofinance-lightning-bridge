@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:hive_api/hive_api.dart' as hive_api;
-import 'package:lightning_api/lightning_api.dart';
-import 'package:lightning_bridge/lightning_bridge.dart';
+import 'package:leofinance_hive_api/hive_api.dart' as hive_api;
+import 'package:leofinance_lightning_api/lightning_api.dart';
+import 'package:leofinance_lightning_bridge/lightning_bridge.dart';
 import 'package:scot_api/scot_api.dart' as scot_api;
 
 Account buildAccount(
